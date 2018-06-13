@@ -18,7 +18,7 @@ grep.stdout.close()
 
 #output= str(output)
 for i in output.stdout:
-	print i 
+	print "====================" + i + "=======================" 
 	# Create a Socket
 	s=socket.socket(socket.AF_INET, socket.SOCK_STREAM) # Connect to the Server 
 	connect=s.connect((i,25))
