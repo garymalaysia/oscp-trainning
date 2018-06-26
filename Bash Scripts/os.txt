@@ -1,0 +1,24 @@
+# Nmap 7.60 scan initiated Mon Jun 18 20:53:09 2018 as: nmap -p 80 -sV -sT -oG os.txt 10.11.1.8 10.11.1.10 10.11.1.13 10.11.1.14 10.11.1.22 10.11.1.24 10.11.1.31 10.11.1.39 10.11.1.49 10.11.1.50 10.11.1.71 10.11.1.72 10.11.1.115 10.11.1.116 10.11.1.128 10.11.1.133 10.11.1.202 10.11.1.209 10.11.1.217 10.11.1.219 10.11.1.223 10.11.1.227 10.11.1.229 10.11.1.234 10.11.1.237 10.11.1.238 10.11.1.251
+Host: 10.11.1.10 ()	Status: Up
+Host: 10.11.1.10 ()	Ports: 80/open/tcp//http//Microsoft IIS httpd 6.0/
+Host: 10.11.1.13 ()	Status: Up
+Host: 10.11.1.13 ()	Ports: 80/open/tcp//http//Microsoft IIS httpd 5.1/
+Host: 10.11.1.14 ()	Status: Up
+Host: 10.11.1.14 ()	Ports: 80/open/tcp//http//Microsoft IIS httpd 5.1/
+Host: 10.11.1.22 ()	Status: Up
+Host: 10.11.1.22 ()	Ports: 80/open/tcp//http//Apache httpd 1.3.23 ((Unix)  (Red-Hat|Linux) mod_python|2.7.6 Python|1.5.2 mod_ssl|2.8.7 OpenSSL|0.9.6b DAV|1.0.3 PHP|4.1.2 mod_perl|1.26 mod_throttle|3.1.2)/
+Host: 10.11.1.24 ()	Status: Up
+Host: 10.11.1.24 ()	Ports: 80/open/tcp//http//Apache httpd 2.2.4 ((Ubuntu) PHP|5.2.3-1ubuntu6)/
+Host: 10.11.1.31 ()	Status: Up
+Host: 10.11.1.31 ()	Ports: 80/open/tcp//http//Microsoft IIS httpd 6.0/
+Host: 10.11.1.39 ()	Status: Up
+Host: 10.11.1.39 ()	Ports: 80/open/tcp//http//nginx 1.6.3/
+Host: 10.11.1.49 ()	Status: Up
+Host: 10.11.1.49 ()	Ports: 80/open/tcp//http//Microsoft IIS httpd 8.5/
+Host: 10.11.1.50 ()	Status: Up
+Host: 10.11.1.50 ()	Ports: 80/open/tcp//http//Microsoft IIS httpd 8.5/
+Host: 10.11.1.71 ()	Status: Up
+Host: 10.11.1.71 ()	Ports: 80/open/tcp//http//Apache httpd 2.4.7 ((Ubuntu))/
+Host: 10.11.1.116 ()	Status: Up
+Host: 10.11.1.116 ()	Ports: 80/open/tcp//http//Apache httpd 2.4.6 ((FreeBSD) PHP|5.4.23)/
+# Nmap done at Mon Jun 18 20:53:18 2018 -- 27 IP addresses (11 hosts up) scanned in 8.85 seconds
